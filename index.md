@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Manual de quesería
 
 You can use the [editor on GitHub](https://github.com/juanriera/manualqueseria/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Escrito en markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
 
 - Bulleted
 - List
